@@ -1,3 +1,6 @@
+<!-- Logo -->
+<a href="https://ibb.co/qWb38bM"><img src="https://i.ibb.co/qWb38bM/LOGO-4.png" alt="LOGO-4" border="0" /></a>
+
 <!-- Título -->
 # MoonTech© Universe - Desenvolvimento de Aplicações Web com Inteligência Artificial 🌐
 
@@ -14,7 +17,7 @@ Bem-vindo ao repositório MoonTech© Universe! Somos especializados em desenvolv
 - 📫 Como nos encontrar: [Site](https://g.dev/MoonTechBR) | [Email](moontech.ia@gmail.com) | [WhatsApp](https://wa.me/5521993974582)
 
 <!-- Imagem do Banner (opcional) -->
-![Banner](<a href="https://ibb.co/qWb38bM"><img src="https://i.ibb.co/qWb38bM/LOGO-4.png" alt="LOGO-4" border="0" /></a>)
+
 
 <!-- Tópicos de Destaque -->
 ## Principais Tópicos
