@@ -6,7 +6,9 @@
 Desenvolvimento de Aplicações Web com Inteligência Artificial.
 
 <!-- Descrição -->
-Bem-vindo ao repositório MoonTech© Universe! Somos especializados em desenvolvimento de aplicações web impulsionadas pela Inteligência Artificial (IA). Neste repositório, você encontrará projetos emocionantes, código avançado e soluções inovadoras para a web.
+Bem-vindo ao repositório MoonTech© Universe! 
+Somos especializados em desenvolvimento de aplicações web impulsionadas pela Inteligência Artificial (IA). 
+Neste repositório, você encontrará projetos emocionantes, códigos avançados e soluções inovadoras para a web.
 
 <!-- Sobre Nós -->
 ## Sobre Nós
