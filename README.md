@@ -1,5 +1,5 @@
 <!-- Logo -->
-<img src="https://i.ibb.co/w4BYVjN/Screenshot-6.png" alt="Screenshot-6" border="0">
+<img src="https://i.ibb.co/yf3tq2m/GDEV.png" alt="GDEV" border="0">
 
 <!-- Título -->
 # MoonTech© Universe 🌐
