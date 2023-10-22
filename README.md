@@ -11,10 +11,10 @@ Bem-vindo ao repositório MoonTech© Universe! Somos especializados em desenvolv
 - 👀 Nosso foco está em desenvolvimento web e IA.
 - 🌱 Estamos constantemente aprendendo e inovando em IA e desenvolvimento web.
 - 💞️ Estamos abertos a colaborações em projetos relacionados à IA e desenvolvimento web.
-- 📫 Como nos encontrar: [Site](https://www.moontechuniverse.com) | [Email](contato@moontechuniverse.com)
+- 📫 Como nos encontrar: [Site](https://g.dev/MoonTechBR) | [Email](moontech.ia@gmail.com) | [WhatsApp](https://wa.me/5521993974582)
 
 <!-- Imagem do Banner (opcional) -->
-![Banner](link_da_sua_imagem_banner.png)
+![Banner](<a href="https://ibb.co/qWb38bM"><img src="https://i.ibb.co/qWb38bM/LOGO-4.png" alt="LOGO-4" border="0" /></a>)
 
 <!-- Tópicos de Destaque -->
 ## Principais Tópicos
