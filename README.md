@@ -2,7 +2,8 @@
 <a href="https://ibb.co/qWb38bM"><img src="https://i.ibb.co/qWb38bM/LOGO-4.png" alt="LOGO-4" border="0" /></a>
 
 <!-- Título -->
-# MoonTech© Universe - Desenvolvimento de Aplicações Web com Inteligência Artificial 🌐
+# MoonTech© Universe 🌐
+Desenvolvimento de Aplicações Web com Inteligência Artificial.
 
 <!-- Descrição -->
 Bem-vindo ao repositório MoonTech© Universe! Somos especializados em desenvolvimento de aplicações web impulsionadas pela Inteligência Artificial (IA). Neste repositório, você encontrará projetos emocionantes, código avançado e soluções inovadoras para a web.
