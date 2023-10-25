@@ -17,7 +17,7 @@ Neste repositório, você encontrará projetos emocionantes, códigos avançados
 - 👀 Nosso foco está em desenvolvimento web e IA.
 - 🌱 Estamos constantemente aprendendo e inovando em IA e desenvolvimento web.
 - 💞️ Estamos abertos a colaborações em projetos relacionados à IA e desenvolvimento web.
-- 📫 Como nos encontrar: [Site](https://g.dev/MoonTechBR) | [Email](mailto:moontech.ia@gmail.com) | [WhatsApp](https://wa.me/5521993974582)
+- 📫 Como nos encontrar: [Site](https://g.dev/MoonTechBR) | [Email](mailto:moontech.ia@gmail.com) | [WhatsApp](https://wa.me/5521985996555)
 
 <!-- Imagem do Banner (opcional) -->
 
